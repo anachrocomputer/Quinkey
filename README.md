@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/MCU-ATmega328-green "MCU:ATmega328")
+
 # Quinkey #
 
 Arduino sketch to read analog signal from Quinkey chord keyboard and
